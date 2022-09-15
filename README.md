@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lukeMcd64
 - 👀 I’m interested on working on cool projects involving data
-- 🌱 I’m currently learning how to collect data from API's
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning how to how to manipulate data with python
+- 💞️ I’m currently working on a shiny app that uses a random forest model to better track my personal finances
 - 📫 How to reach me ...
 
 <!---
